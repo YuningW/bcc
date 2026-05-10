@@ -1,0 +1,18 @@
+# Generated HTML outputs
+interactive_*.html
+index.html
+interactive_3d_scatter.html
+interactive_scatter_matrix.html
+interactive_sunburst.html
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Environment
+.env
+.envrc
